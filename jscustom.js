@@ -70,4 +70,25 @@ $(document).ready(function () {
     let verifyBlockHidden = document.querySelectorAll('.verifyBlockShow.isShow');
     verifyBlockHidden.forEach(item => item.classList.remove('isShow'));
   }
+  $('.btn_showMoreExpandText').on("click", function () {
+    let description_js_text = $('.description_js_text');
+    let description_js_textHeight = description_js_text.height() + $('.recipient-issuer.row-xs').height() + 180;
+
+    if ($(this).hasClass('active')) {
+      $('.sp_expandText').css({
+        "max-height": "60px",
+        "mask-image": "linear-gradient(to top, transparent 8%, black 56%)"
+      });
+      $('.btn_showMoreExpandText .trailing-margin').text('Show more');
+    } else {
+      $('.sp_expandText').css({
+        "max-height": description_js_textHeight,
+        "mask-image": "none"
+      });
+      $('.btn_showMoreExpandText .trailing-margin').text('Show less');
+    }
+
+    $(this).toggleClass('active');
+  });
+
 });

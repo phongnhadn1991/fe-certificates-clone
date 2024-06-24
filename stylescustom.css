@@ -105,3 +105,11 @@
 .blockchain-address {
   word-wrap: break-word;
 }
+
+.banner_certify {
+  max-width: 596px;
+}
+
+.btn_showMoreExpandText.active .mat-icon {
+transform: rotate(180deg);
+}
