@@ -42,8 +42,8 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@BritishCouncil" />
-  <meta name="twitter:creator" content="@BritishCouncil" />
+  <meta name="twitter:site" content="@britishhcouncill" />
+  <meta name="twitter:creator" content="@britishhcouncill" />
   <meta name="twitter:title" content="Aptis ESOL • Thi Huong Vu • British Council" />
   <meta name="twitter:description"
     content="The British Council is the United Kingdom’s international organisation for cultural relations and educational opportunities." />
@@ -4575,7 +4575,7 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
                                           <li _ngcontent-ng-c1468157071="" class="ng-star-inserted">
                                             <a _ngcontent-ng-c1468157071="" mat-menu-item=""
                                               class="mat-focus-indicator mat-menu-item ng-star-inserted"
-                                              href="mailto:digital-credentials@britishcouncil.org" role="menuitem"
+                                              href="mailto:digital-credentials@britishhcouncill.org" role="menuitem"
                                               tabindex="0" aria-disabled="false">
                                               <accredible-icon _ngcontent-ng-c1468157071=""
                                                 class="trailing-margin ng-star-inserted">
@@ -4716,7 +4716,7 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
                               <div _ngcontent-ng-c4071508745="">
                                 <a _ngcontent-ng-c4071508745="" data-cy="view-all-credentials-link"
                                   aria-label="View all credentials earned by British Council "
-                                  href="https://credentials.britishhcouncill.org/profile/britishcouncil/wallet">
+                                  href="https://credentials.britishhcouncill.org/profile/britishhcouncill/wallet">
                                   View All Credentials
                                 </a>
                                 <accredible-divider _ngcontent-ng-c4071508745="" vertical="" _nghost-ng-c3153074854=""
@@ -4960,7 +4960,7 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
                                 <ul _ngcontent-ng-c3310947581="">
                                   <li _ngcontent-ng-c3310947581="" class="ng-star-inserted">
                                     <a _ngcontent-ng-c3310947581="" target="_blank" class="link-with-icon"
-                                      href="https://www.britishcouncil.org/?aad=BAhJIkt7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL3d3dy5icml0aXNoY291bmNpbC5vcmcvIiwiaWQiOjgyMjczNzR9BjoGRVQ%3D--9cab66fee357f6cfecfbfcc91539cfda17410087"
+                                      href="https://www.britishhcouncill.org/?aad=BAhJIkt7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL3d3dy5icml0aXNoY291bmNpbC5vcmcvIiwiaWQiOjgyMjczNzR9BjoGRVQ%3D--9cab66fee357f6cfecfbfcc91539cfda17410087"
                                       rel="noopener">
                                       <span _ngcontent-ng-c3310947581="" class="trailing-margin"
                                         aria-label="Visit Website for British Council - opens in a new tab">
@@ -4974,7 +4974,7 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
                                   <!---->
                                   <li _ngcontent-ng-c3310947581="" class="ng-star-inserted">
                                     <a _ngcontent-ng-c3310947581="" target="_blank" class="link-with-icon"
-                                      href="https://www.britishcouncil.org/exam/aptis/aptis-esol-english-test?aad=BAhJIm17InR5cGUiOiJjb3Vyc2UiLCJ1cmwiOiJodHRwczovL3d3dy5icml0aXNoY291bmNpbC5vcmcvZXhhbS9hcHRpcy9hcHRpcy1lc29sLWVuZ2xpc2gtdGVzdCIsImlkIjo4MjI3Mzc0fQY6BkVU--43f28542086c586b8ddf5e7ce3a4e72419bcc36f"
+                                      href="https://www.britishhcouncill.org/exam/aptis/aptis-esol-english-test?aad=BAhJIm17InR5cGUiOiJjb3Vyc2UiLCJ1cmwiOiJodHRwczovL3d3dy5icml0aXNoY291bmNpbC5vcmcvZXhhbS9hcHRpcy9hcHRpcy1lc29sLWVuZ2xpc2gtdGVzdCIsImlkIjo4MjI3Mzc0fQY6BkVU--43f28542086c586b8ddf5e7ce3a4e72419bcc36f"
                                       aria-label="Visit Page for Aptis ESOL - opens in a new tab" rel="noopener">
                                       <span _ngcontent-ng-c3310947581="" class="trailing-margin">Visit Course
                                         Page</span>
@@ -5290,7 +5290,7 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
                           British Council
                         </div>
                         <a _ngcontent-ng-c3122199780="" target="_blank"
-                          href="https://www.britishcouncil.org/?aad=BAhJIkt7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL3d3dy5icml0aXNoY291bmNpbC5vcmcvIiwiaWQiOjgyMjczNzR9BjoGRVQ%3D--9cab66fee357f6cfecfbfcc91539cfda17410087"
+                          href="https://www.britishhcouncill.org/?aad=BAhJIkt7InR5cGUiOiJpc3N1ZXIiLCJ1cmwiOiJodHRwczovL3d3dy5icml0aXNoY291bmNpbC5vcmcvIiwiaWQiOjgyMjczNzR9BjoGRVQ%3D--9cab66fee357f6cfecfbfcc91539cfda17410087"
                           rel="noopener">
                           Issuer's Website
                         </a>
@@ -5429,7 +5429,7 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
                         <div _ngcontent-ng-c3122199780="" class="mat-h3">
                           British Council
                         </div>
-                        <a _ngcontent-ng-c3122199780="" href="/profile/britishcouncil/wallet">
+                        <a _ngcontent-ng-c3122199780="" href="/profile/britishhcouncill/wallet">
                           View All Credentials
                         </a>
                       </div>
