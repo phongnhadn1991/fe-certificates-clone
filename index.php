@@ -58,7 +58,7 @@ if (!isset($_GET['key']) || !isset($_GET['zarsrc']) ||
   <meta name="google-site-verification" content="t736ZwapdcIP7oBCAOwuashRjjubORmMmZ30KlM6Yss" />
 
   <!-- Theme favicon -->
-  <link id="themeFavicon" rel="icon" type="image/x-icon" href="https://credentials.britishhcouncill.org/favicon.ico" />
+  <link id="themeFavicon" rel="icon" type="image/x-icon" href="./favicon.ico" />
 
   <!-- Theme styles -->
   <link id="themeStyles" rel="stylesheet" href="./theme.css" />
